@@ -18,3 +18,7 @@
 2. 在功能分支上开发：`git checkout -b feature/xxx`
 3. 提交更改：`git commit -m "feat: xxx"`
 4. 推送到 GitHub 并发起 Pull Request
+
+## 测试提交
+
+这是一次测试提交，用于验证 git 工作流是否正常工作。
